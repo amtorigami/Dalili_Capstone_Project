@@ -1,0 +1,7 @@
+dalili_profile:
+  outputs:
+    dev:
+      type: duckdb
+      path: '/home/atm/atm2526/bootc/Capstone_Project/dalili_local_warehouse.duckdb'
+      threads: 4
+  target: dev

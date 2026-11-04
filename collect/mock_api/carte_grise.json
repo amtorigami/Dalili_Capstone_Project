@@ -1,0 +1,15 @@
+{
+  "procedure_id": "VEH-03",
+  "nom_procedure": "Transfert de propriété d'un véhicule (Carte grise)",
+  "ministere": "Agence Nationale de la Sécurité Routière (NARSA)",
+  "cout_mad": 300,
+  "delai_jours": 60,
+  "pieces_requises": [
+    "Original de la demande de transfert de propriété sur modèles BI ou BII signé",
+    "Copie d'un document justifiant le lieu de résidence du demandeur",
+    "Original de la carte grise au nom du vendeur",
+    "Original du procès-verbal de contrôle technique délivré par un centre agréé",
+    "Original du reçu de paiement des taxes légales"
+  ],
+  "url_officielle": "https://idarati.ma"
+}

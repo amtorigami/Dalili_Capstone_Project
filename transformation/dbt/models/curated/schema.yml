@@ -1,0 +1,16 @@
+version: 2
+
+models:
+  - name: stg_procedures
+    description: "Cleaned and relationalized administrative fiches from Idarati.ma"
+    columns:
+      - name: stg_id
+        tests:
+          - unique
+          - not_null
+      - name: procedure_id
+        tests:
+          - not_null
+      - name: cout_mad
+        tests:
+          - not_null

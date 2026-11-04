@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: idarati_raw
+    database: dalili-513719
+    schema: dalili_raw
+    tables:
+      - name: procedures_landing
+        config:
+          freshness:
+            warn_after: { count: 24, period: hour }
+            error_after: { count: 48, period: hour }
+          loaded_at_field: _bq_extracted_at

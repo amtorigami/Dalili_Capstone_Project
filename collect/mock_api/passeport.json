@@ -1,0 +1,14 @@
+{
+  "procedure_id": "PAS-01",
+  "nom_procedure": "Obtention du passeport biométrique pour les adultes au Maroc",
+  "ministere": "Intérieur",
+  "cout_mad": 500,
+  "delai_jours": 15,
+  "pieces_requises": [
+    "Original du formulaire de demande de passeport biométrique, dûment rempli, signé et daté",
+    "Original du timbre électronique, justifiant le paiement des taxes en vigueur",
+    "Copie de la Carte Nationale d'Identité Électronique (CNIE) en cours de validité",
+    "Original d'une photographie d'identité récente de format 35x45 mm sur fond blanc, bleu ou gris"
+  ],
+  "url_officielle": "https://idarati.ma"
+}

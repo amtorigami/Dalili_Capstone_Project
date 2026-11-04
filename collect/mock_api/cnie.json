@@ -1,0 +1,14 @@
+{
+  "procedure_id": "CNI-02",
+  "nom_procedure": "Carte Nationale d'Identité Électronique",
+  "ministere": "Intérieur (DGSN)",
+  "cout_mad": 75,
+  "delai_jours": 10,
+  "pieces_requises": [
+    "Copie abrégée de l'acte de naissance",
+    "Original du certificat de résidence (y compris délivré par la Gendarmerie Royale)",
+    "Original d'une photographie d'identité",
+    "Original du paiement des droits de timbre"
+  ],
+  "url_officielle": "https://idarati.ma"
+}
