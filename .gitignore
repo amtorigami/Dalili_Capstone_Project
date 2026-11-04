@@ -18,3 +18,4 @@ terraform/.terraform/
 terraform/*.tfstate*
 terraform/terraform.tfvars
 transformation/dbt/.user.yml
+collect/mock_api/
