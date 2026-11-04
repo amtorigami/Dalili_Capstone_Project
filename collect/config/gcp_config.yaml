@@ -1,0 +1,7 @@
+project_id: "REMPLACER_PAR_TON_PROJECT_ID"
+region: "europe-west9"
+bucket_suffix: "dalili-landing"
+dataset_raw: "dalili_raw"
+dataset_curated: "dalili_curated"
+dataset_marts: "dalili_marts"
+dataset_snapshots: "dalili_snapshots"
